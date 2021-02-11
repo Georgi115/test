@@ -1,0 +1,14 @@
+.appProfile__btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.appProfile {
+  min-height: 100vh;
+  padding-top: 30px;
+}
+
+.appProfile h5 {
+  text-align: center;
+}
